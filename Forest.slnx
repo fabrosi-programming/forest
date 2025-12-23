@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Forest.Tests/Forest.Tests.fsproj" Id="fbee938f-e1e4-4174-8194-0c4ae7d02911" />
+  <Project Path="Forest/Forest.fsproj" />
+</Solution>
